@@ -21,6 +21,7 @@ tasmota*.map
 platformio_override.ini
 platformio_tasmota_cenv.ini
 
+
 ## Visual Studio Code specific ######
 .vscode
 .vscode/.browse.c_cpp.db*
